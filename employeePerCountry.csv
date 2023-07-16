@@ -1,0 +1,8 @@
+numberOfEmployees,office,officeCountry,officeTerritory
+6,"San Francisco",USA,NA
+2,Boston,USA,NA
+2,NYC,USA,NA
+5,Paris,France,EMEA
+2,Tokyo,Japan,Japan
+4,Sydney,Australia,APAC
+2,London,UK,EMEA

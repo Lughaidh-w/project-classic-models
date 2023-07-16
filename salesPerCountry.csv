@@ -1,0 +1,25 @@
+numberOfCustomers,customerCountry,office,officeCountry,totalCredit,totalSales
+12,France,Paris,France,27611900.00,1007374.02
+12,USA,Boston,USA,23592600.00,892538.62
+12,USA,NYC,USA,25852700.00,951677.86
+12,USA,"San Francisco",USA,59425700.00,1429063.57
+5,Australia,Sydney,Australia,17863000.00,562582.59
+5,Spain,Paris,France,65442800.00,1099389.09
+5,UK,London,UK,14628100.00,436947.44
+4,Italy,Paris,France,13691800.00,360616.81
+4,"New Zealand",Sydney,Australia,13865400.00,476847.01
+3,Canada,NYC,USA,5387600.00,205911.86
+3,Finland,London,UK,8755000.00,295149.35
+3,Germany,London,UK,5521800.00,196470.99
+3,Norway,London,UK,7704000.00,270846.30
+2,Austria,Paris,France,3547500.00,188540.06
+2,Belgium,Paris,France,2185500.00,100068.76
+2,Denmark,Paris,France,6264000.00,218994.92
+2,Japan,Tokyo,Japan,4644800.00,167909.95
+2,Sweden,London,UK,5432100.00,187638.35
+2,Switzerland,Paris,France,4380300.00,108777.92
+1,"Hong Kong",Tokyo,Japan,937600.00,45480.79
+1,Ireland,London,UK,1110400.00,49898.27
+1,Philippines,Tokyo,Japan,2119000.00,87468.30
+1,Singapore,Sydney,Australia,3524400.00,107746.75
+1,Singapore,Tokyo,Japan,4463400.00,156251.03
